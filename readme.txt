@@ -7,3 +7,4 @@ ss
 dd
 create a new branch dev.12345
 78
+Creating a new branch is quick AND simple.
